@@ -1,22 +1,10 @@
 ![head.png](./images/readme-top.png)
 
-Hi there, thanks for stopping by, this is **Charles Zhang**.
+Hi there, thanks for stopping by, this is **Leo** ~ Also, you can call me **LiChonghao** 😀
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
+<img align='right' src="./images/octocat.gif" width="220" alt="octocat.gif">
 
-```javascript
-const charles = {
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            js: ["Typescript"]
-            jsTools: ["Vue", "React"],
-            css: ["less", "sass", "scss"]
-        },
-        backEnd: ["node.js"]
-    }
-};
-```
+
 ### Languages and Tools:
 
 <p>  
@@ -36,7 +24,7 @@ const charles = {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-![Lichonghao's github stats](https://github-readme-stats.vercel.app/api?username=MrCrazyLeo&count_private=true&show_icons=true&include_all_commits=true&hide=&theme=)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=MrCrazyLeo&count_private=true&show_icons=true&include_all_commits=true&hide=&theme=)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=)](https://github.com/anuraghazra/github-readme-stats) -->
 
