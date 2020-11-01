@@ -1,4 +1,4 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](./images/readme-top.png)
 
 Hi there, thanks for stopping by, this is **Charles Zhang**.
 
@@ -6,15 +6,14 @@ Hi there, thanks for stopping by, this is **Charles Zhang**.
 
 ```javascript
 const charles = {
-    pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            js: ["Typescript"]
+            jsTools: ["Vue", "React"],
+            css: ["less", "sass", "scss"]
         },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle"],
+        backEnd: ["node.js"]
     }
 };
 ```
@@ -39,7 +38,7 @@ const charles = {
 
 ![Lichonghao's github stats](https://github-readme-stats.vercel.app/api?username=MrCrazyLeo&count_private=true&show_icons=true&include_all_commits=true&hide=&theme=)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCrazyLeo)](https://github.com/anuraghazra/github-readme-stats)
 
