@@ -28,13 +28,13 @@ Hi there, thanks for stopping by, this is **Leo** ~ Also, you can call me **LiCh
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCrazyLeo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCrazyLeo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/iCharlesZ">
+<a href="https://github.com/MrCrazyLeo">
   <img src="https://img.shields.io/github/followers/MrCrazyLeo">
 </a>
-<a href="https://github.com/iCharlesZ">
+<a href="https://github.com/MrCrazyLeo">
    <img src="https://komarev.com/ghpvc/?username=MrCrazyLeo">
 </a>
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+![bottom.png](./images/readme-bottom.png)
