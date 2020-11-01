@@ -19,13 +19,17 @@ const charles = {
 };
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&count_private=true&show_icons=true&include_all_commits=true)
+![Lichonghao's github stats](https://github-readme-stats.vercel.app/api?username=MrCrazyLeo&count_private=true&show_icons=true&include_all_commits=true&hide=&theme=)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCrazyLeo)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/iCharlesZ">
-  <img src="https://img.shields.io/github/followers/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/MrCrazyLeo">
 </a>
 <a href="https://github.com/iCharlesZ">
-   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=MrCrazyLeo">
 </a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
