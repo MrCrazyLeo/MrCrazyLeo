@@ -30,11 +30,11 @@ Hi there, thanks for stopping by, this is **Leo** ~ Also, you can call me **LiCh
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCrazyLeo)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/MrCrazyLeo">
+<!-- <a href="https://github.com/MrCrazyLeo">
   <img src="https://img.shields.io/github/followers/MrCrazyLeo">
 </a>
 <a href="https://github.com/MrCrazyLeo">
    <img src="https://komarev.com/ghpvc/?username=MrCrazyLeo">
-</a>
+</a> -->
 
 ![bottom.png](./images/readme-bottom.png)
